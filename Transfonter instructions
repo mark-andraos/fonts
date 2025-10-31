@@ -1,0 +1,17 @@
+🧩 How to use Transfonter
+
+Go to 👉 https://transfonter.org
+
+Click “Add fonts” and upload your .ttf file.
+
+In the options:
+
+Check WOFF2 (you can uncheck the others if you only want that).
+
+Leave everything else on default (no need to subset or rename unless you want to).
+
+Click “Convert”.
+
+Download the ZIP and extract the .woff2 file.
+
+Upload that file to your GitHub repo (or wherever you’re hosting fonts).
